@@ -1,3 +1,3 @@
 # Data_Analytics_Projects
 
-### Please click PDF Project files to view them 
+### Please open project folders to view PDF Project files 
